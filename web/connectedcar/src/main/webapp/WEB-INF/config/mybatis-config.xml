@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+	<settings>
+		<setting name="cacheEnabled" value="false" />
+		<setting name="jdbcTypeForNull" value="NULL" />
+	</settings>
+ 	<typeAliases>
+ 		<typeAlias type="connected.car.member.MemberVO" alias="membervo"/>
+		<typeAlias type="connected.car.owner.OwnerVO" alias="ownervo" />
+		<typeAlias type="connected.car.expendable.ShopExpendableVO" alias="shopexpendvo"/>
+		<typeAlias type="connected.car.expendable.ExpendableLogVO" alias="expendlogvo"/>
+		<typeAlias type="connected.car.admin.ExpendableVO" alias="expendablevo"/>
+		<typeAlias type="connected.car.admin.Pagination" alias="paging"/>
+		<typeAlias type="connected.car.owner.ShopinfoVO" alias="shopinfovo" />
+		<typeAlias type="connected.car.owner.AddressVO" alias="addressvo"/>
+		<typeAlias type="connected.car.sales.SalesVO" alias="salesvo"/>
+		<typeAlias type="connected.car.control.RemoteVO" alias="remotevo"/>
+		<typeAlias type="connected.car.mycar.MyCarVO" alias="mycarvo"/>
+		<typeAlias type="connected.car.fcm.FCMVO" alias="fcmvo"/>
+		<typeAlias type="connected.car.period.MyexpendVO" alias="myexpendvo"/>
+		<typeAlias type="connected.car.period.TermVO" alias="termvo"/>
+		<typeAlias type="connected.car.period.ChangeVO" alias="changevo"/>
+		<typeAlias type="connected.car.bigdata.BigdataVO" alias="bigdatavo"/>
+		
+	</typeAliases>
+	<mappers>
+		<mapper resource="mapper/ownerloginjoin.xml" />	
+		<mapper resource="mapper/member.xml"/>
+		<mapper resource="mapper/admin.xml"/>
+		<mapper resource="mapper/expendable.xml"/>
+		<mapper resource="mapper/sales.xml"/>
+		<mapper resource="mapper/control.xml"/>
+		<mapper resource="mapper/mycar.xml"/>
+		<mapper resource="mapper/fcm.xml"/>
+		<mapper resource="mapper/period.xml"/>
+		<mapper resource="mapper/bigdata.xml" />
+	</mappers>
+</configuration>

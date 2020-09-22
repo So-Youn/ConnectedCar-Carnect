@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/termMenuItem"
+        android:enabled="true"
+        android:icon="@drawable/duration"
+        android:title="부품주기"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/locationMenuItem"
+        android:enabled="true"
+        android:icon="@drawable/satellite"
+        android:title="차량위치"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/homeMenuItem"
+        android:enabled="true"
+        android:title="차량제어"
+        android:checked="true"
+        app:showAsAction="always"
+        android:icon="@drawable/system"/>
+    <item
+        android:id="@+id/controlResultMenuItem"
+        android:enabled="true"
+        android:icon="@drawable/computer"
+        android:title="제어결과"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/infoMenuItem"
+        android:enabled="true"
+        android:icon="@drawable/tools"
+        android:title="내 차정보"
+        app:showAsAction="always" />
+</menu>

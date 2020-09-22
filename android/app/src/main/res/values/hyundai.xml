@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--크롤링한 자동차 목록-->
+    <string-array name="hyundai_avante">
+        <item>아반떼 20</item>
+        <item>아반떼 19</item>
+        <item>아반떼 16</item>
+        <item>아반떼 14</item>
+        <item>아반떼 11</item>
+        <item>아반떼 하이브리드 09</item>
+        <item>아반떼 06: NOV.2006-</item>
+        <item>아반떼 06: -OCT.2006</item>
+        <item>아반떼 00</item>
+        <item>아반떼 96</item>
+    </string-array>
+
+    <string-array name="hyundai_sonata">
+        <item>쏘나타 하이브리드 20</item>
+        <item>쏘나타 19</item>
+        <item>쏘나타 하이브리드 17</item>
+        <item>쏘나타 17</item>
+        <item>쏘나타 하이브리드 16</item>
+        <item>쏘나타 14</item>
+        <item>쏘나타 하이브리드 11</item>
+        <item>쏘나타 10</item>
+        <item>쏘나타 08</item>
+        <item>쏘나타 04: SEP.2006-</item>
+        <item>쏘나타 04: -SEP.2006</item>
+        <item>쏘나타 02</item>
+        <item>쏘나타 95</item>
+        <item>쏘나타 99</item>
+    </string-array>
+
+
+    <string-array name="hyundai_grandeur">
+        <item>그랜저 하이브리드 20</item>
+        <item>그랜저 20</item>
+        <item>그랜저 하이브리드 17</item>
+        <item>그랜저 17 </item>
+        <item>그랜저 15</item>
+        <item>그랜저 하이브리드 14</item>
+        <item>그랜저 11</item>
+        <item>그랜저 05: -OCT.2006</item>
+        <item>그랜저 05: NOV.2006-</item>
+        <item>그랜저 99</item>
+        <item>그랜저/다이너스티 92</item>
+    </string-array>
+
+
+    <string-array name="hyundai_i30">
+        <item>i30 17</item>
+        <item>i30 15</item>
+        <item>i30 12</item>
+        <item>i30/i30cw 07</item>
+    </string-array>
+
+    <string-array name="hyundai_i40">
+        <item>i40 18</item>
+        <item>i40 15</item>
+        <item>i40 12</item>
+    </string-array>
+
+    <string-array name="hyundai_genesis">
+        <item>제네시스 14</item>
+        <item>제네시스 쿠페 12</item>
+        <item>제네시스 07</item>
+        <item>제네시스 쿠페 08</item>
+        <item>G80 20</item>
+        <item>G90 19</item>
+        <item>G70 17</item>
+        <item>G80 16</item>
+        <item>EQ900 16</item>
+    </string-array>
+
+    <string-array name="hyundai_equus">
+        <item>에쿠스 13</item>
+        <item>에쿠스 08</item>
+        <item>에쿠스 04: NOV.2006-</item>
+        <item>에쿠스 01: -OCT.2006</item>
+        <item>에쿠스 99</item>
+    </string-array>
+
+    <string-array name="hyundai_ioniq">
+        <item>아이오닉 하이브리드 19</item>
+        <item>아이오닉 하이브리드 16</item>
+        <item>아이오닉 전기차 19</item>
+        <item>아이오닉 전기차 16</item>
+    </string-array>
+
+    <string-array name="hyundai_accent">
+        <item>엑센트 15</item>
+        <item>엑센트 11</item>
+    </string-array>
+
+    <string-array name="hyundai_kona">
+        <item>코나 하이브리드 19</item>
+        <item>코나 전기차 19</item>
+    </string-array>
+
+    <string-array name="hyundai_porter">
+        <item>포터 II 전기차 20</item>
+        <item>포터 II 20 특장</item>
+        <item>포터 II 20</item>
+    </string-array>
+
+    <string-array name="hyundai_click">
+        <item>클릭 06: NOV.2006-</item>
+        <item>클릭 02: -OCT.2006</item>
+    </string-array>
+
+
+    <string-array name="hyundai_veloster">
+        <item>벨로스터 N 18</item>
+        <item>벨로스터 17</item>
+        <item>벨로스터 15</item>
+        <item>벨로스터 11</item>
+    </string-array>
+
+    <string-array name="hyundai_verna">
+        <item>베르나 하이브리드 06: SEP.2006-</item>
+        <item>베르나 하이브리드 06: -SEP.2006</item>
+        <item>베르나 06: SEP.2006-</item>
+        <item>베르나 06: -SEP.2006</item>
+        <item>베르나 00</item>
+    </string-array>
+
+    <string-array name="hyundai_nexo">
+        <item>넥쏘 18</item>
+    </string-array>
+
+    <string-array name="hyundai_aslan">
+        <item>아슬란 15</item>
+    </string-array>
+
+    <string-array name="hyundai_tucson">
+        <item>투싼 수소전기차 12</item>
+    </string-array>
+
+    <string-array name="hyundai_blueon">
+        <item>블루 온 11</item>
+    </string-array>
+
+    <string-array name="hyundai_atos">
+        <item>아토스 01</item>
+        <item>아토스 98</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--==========================SUV, 화물==============================-->
+    <string-array name="hyundai_santafe">
+        <item>싼타페 TM</item>
+        <item>싼타페 더 프라임 (15~18년)</item>
+        <item>싼타페 DM (12~15년)</item>
+        <item>싼타페 CM (05~12년)</item>
+        <item>싼타페 (00~05년)</item>
+    </string-array>
+
+    <string-array name="hyundai_trajet">
+        <item>트라제 XG</item>
+    </string-array>
+
+    <string-array name="hyundai_county">
+        <item>e-카운티</item>
+    </string-array>
+
+
+    <string-array name="hyundai_palisade">
+        <item>펠리세이드</item>
+    </string-array>
+
+    <string-array name="hyundai_maxcruz">
+        <item>더 뉴 맥스크루즈(15년~)</item>
+        <item>맥스크루즈 (13~15년)</item>
+    </string-array>
+
+
+    <string-array name="hyundai_starex">
+        <item>더 뉴 그랜드 스타렉스 (17년~)</item>
+        <item>그랜드 스타렉스 (07~17년)</item>
+        <item>스타렉스 (97~07년)</item>
+        <item>스타렉스 점보 (97~07년)</item>
+    </string-array>
+
+
+    <string-array name="hyundai_mighty">
+        <item>올 뉴 마이티</item>
+    </string-array>
+
+    <string-array name="hyundai_tuscani">
+        <item>투스카니(신형)</item>
+        <item>투스카니</item>
+    </string-array>
+
+    <string-array name="hyundai_terracan">
+        <item>테라칸</item>
+    </string-array>
+
+    <string-array name="hyundai_megatruck">
+        <item>메가트럭 와이드캡</item>
+        <item>메가트럭 5톤</item>
+        <item>메가트럭 4.5톤</item>
+        <item>메가트럭 특장차</item>
+    </string-array>
+
+
+
+</resources>
